@@ -5,7 +5,7 @@
 
 - Regularmente escrevo artigos para [https://expressolibertario.com.br/blog/](https://expressolibertario.com.br/blog/)
 
-- Me pergunte sobre **Python, SQL, Pandas, Seaborn, Matplotlib, Filosofia, Lógica e Economia**
+- Me pergunte sobre **Python, SQL, Pandas, Seaborn, Matplotlib, Filosofia, Lógica, Estatística Descritiva e Economia**
 
 - Você me acha através do e-mail **dasilvamendesjoaovictor@gmail.com**
 
