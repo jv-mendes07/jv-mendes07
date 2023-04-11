@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou João Victor Da Silva Mendes</h1>
-<h3 align="center">Apaixonado por Filosofia, Lógica, Economia e Ciência De Dados</h3>
+<h3 align="center">Apaixonado por Análise, Ciência De Dados e Inteligência Artificial</h3>
 
-- Atualmente estou aprendendo **SQL e Machine Learning**
+- Atualmente estou aprendendo **Machine Learning e Deep Learning**
 
 - Regularmente escrevo artigos para [https://expressolibertario.com.br/blog/](https://expressolibertario.com.br/blog/)
 
-- Me pergunte sobre **Python, SQL, Pandas, Seaborn, Matplotlib, Filosofia, Lógica, Estatística Descritiva e Economia**
+- Me pergunte sobre **Python, Power BI, SQL, Pandas, Seaborn, Matplotlib, Estatística Descritiva e Inferencial**
 
 - Você me acha através do e-mail **dasilvamendesjoaovictor@gmail.com**
 
