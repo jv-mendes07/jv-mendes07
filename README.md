@@ -7,7 +7,7 @@
 
 - Você me acha através do e-mail **dasilvamendesjoaovictor@gmail.com**
 
-- Tive trabalhos informais como atendente de lanchonete, assistente de cuidadora de idosa e escritor de artigos filosóficos [https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-mendes-868517223/](https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-mendes-868517223/)
+- Trabalho atualmente como engenheiro de dados no projeto da **Torre de Controle** na empresa **Sonepar** [https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-mendes-868517223/](https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-mendes-868517223/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
