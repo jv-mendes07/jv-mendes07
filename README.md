@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou João Victor Da Silva Mendes</h1>
 <h3 align="center">Profissional em Engenharia de Dados</h3>
 
-- Conhecimento técnico e prático com **Python, Power BI, SQL, Data Factory, Apache Airflow e Spark**
+- Conhecimento técnico e prático com **Python, Power BI, SQL, Data Factory, Apache Airflow e Databricks (Spark)**
 
 - Você me acha através do e-mail **dasilvamendesjoaovictor@gmail.com**
 
